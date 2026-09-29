@@ -1,0 +1,511 @@
+TRANG 23
+
+PHẦN MỘT. SINH HỌC TẾ BÀO
+
+CHƯƠNG 1: THÀNH PHẦN HOÁ HỌC CỦA TẾ BÀO
+
+BÀI 4: CÁC NGUYÊN TỐ HOÁ HỌC VÀ NƯỚC
+
+YÊU CẦU CẦN ĐẠT
+
+Nêu được khái quát học thuyết tế bào. Giải thích được tế bào là đơn vị cấu trúc và chức năng của cơ thể sống.
+
+Liệt kê được một số nguyên tố hoá học chính có trong tế bào (C, H, O, N, S, P). Nêu được vai trò của các nguyên tố vi lượng, đa lượng trong tế bào.
+
+Trình bày được vai trò quan trọng của nguyên tố carbon trong tế bào (cấu trúc nguyên tử C có thể liên kết với chính nó và nhiều nhóm chức khác nhau).
+
+Trình bày được đặc điểm cấu tạo phân tử nước quy định tính chất vật lí, hoá học, sinh học của nước, từ đó quy định vai trò sinh học của nước trong tế bào.
+
+Tìm hiểu sự tương tác giữa các thành phần hoá học của tế bào tạo nên sự sống không chỉ đáp ứng sự tò mò ham hiểu biết của con người mà còn đem lại nhiều ứng dụng thiết thực. Vậy các loại nguyên tố hoá học cấu tạo nên tế bào có gì đặc biệt?
+
+I. KHÁI QUÁT VỀ HỌC THUYẾT TẾ BÀO
+
+Năm 1839, hai nhà sinh học người Đức là Matthias Jakob Schleiden và Theodor Schwann sau khi quan sát cấu tạo của nhiều loại tế bào thực vật và động vật đã nhận thấy các sinh vật đều có cấu trúc tế bào giống nhau và họ đã đưa ra học thuyết tế bào đầu tiên.
+
+Học thuyết tế bào hiện đại bao gồm ba nội dung sau:
+
+Tất cả mọi sinh vật đều được cấu tạo từ một hoặc nhiều tế bào. Sự sống được tiếp diễn do có sự chuyển hoá và sự di truyền xảy ra bên trong các tế bào.
+
+Tế bào là đơn vị nhỏ nhất, đơn vị cấu trúc và đơn vị chức năng cấu tạo nên mọi cơ thể sinh vật.
+
+Tế bào chỉ được sinh ra từ sự phân chia các tế bào có trước.
+
+TRANG 24
+
+Làm thế nào mà tế bào với kích thước hiển vi lại có được các đặc tính của vật sống? Câu trả lời nằm ở chính thành phần hoá học của tế bào. Sự tương tác đặc biệt của các phân tử hoá học trong tế bào đã làm xuất hiện các đặc tính nổi trội như khả năng sinh trưởng, sinh sản, cảm ứng,... Vậy, tế bào được cấu tạo từ những nguyên tố hoá học nào? Các phân tử trong tế bào có cấu trúc và chức năng ra sao?
+
+DỪNG LẠI VÀ SUY NGẪM
+
+Học thuyết tế bào hiện đại có những nội dung gì?
+
+Vì sao tế bào được xem là đơn vị cấu trúc và chức năng của cơ thể sống?
+
+II. CÁC NGUYÊN TỐ HOÁ HỌC TRONG TẾ BÀO
+
+Trong số 92 nguyên tố hoá học có trong tự nhiên, chỉ có khoảng 20% đến 25% nguyên tố hoá học cần thiết cho sự tồn tại, sinh trưởng và phát triển của các sinh vật, được gọi là các nguyên tố thiết yếu. Các nguyên tố hoá học mà hầu hết các loại tế bào đều cần với một lượng lớn gọi là nguyên tố đa lượng. Chỉ riêng 4 nguyên tố đa lượng là C, H, O và N đã chiếm khoảng 96% khối lượng vật chất sống ở hầu hết các cơ thể sinh vật. Các nguyên tố như Ca, P, K, S và một số nguyên tố đa lượng còn lại chiếm khoảng 3,4%. Nguyên tố đa lượng có vai trò chủ chốt cấu tạo nên mọi phân tử sinh học cũng như mọi thành phần hoá học của tế bào.
+
+Nguyên tố vi lượng là nguyên tố mà sinh vật chỉ cần một lượng rất nhỏ. Ví dụ: Để tuyến giáp hoạt động bình thường, mỗi ngày một người chỉ cần hấp thụ từ thức ăn 0,15 mg iodine. Nguyên tố vi lượng thường cấu tạo nên các enzyme cũng như nhiều hợp chất quan trọng khác tham gia vào các hoạt động sống của tế bào và cơ thể. Vì vậy, dù chỉ chiếm một lượng rất nhỏ trong cơ thể nhưng nếu thiếu chúng, các hoạt động sống sẽ bị rối loạn. Ví dụ: Ở người, nếu thiếu iodine, tuyến giáp sẽ phát triển bất thường và dẫn đến bị bệnh bướu cổ.
+
+Một điều thú vị là tế bào của các loài sinh vật khác nhau đều có thành phần các nguyên tố hoá học cơ bản giống nhau. Tuy nhiên, hàm lượng, thành phần các nguyên tố hoá học ở các tế bào cũng có sự khác biệt nhất định. Ví dụ: Cơ thể người cần tới 25 loại nguyên tố hoá học khác nhau (H 4.1), trong khi các loài thực vật chỉ cần 17 loại nguyên tố thiết yếu.
+
+Trong số các nguyên tố cấu tạo nên tế bào, carbon có vai trò đặc biệt quan trọng vì:
+
+Nguyên tử carbon có 4 electron hoá trị ở vòng ngoài nên có thể đồng thời tạo bốn liên kết cộng hoá trị với các nguyên tử carbon khác, hình thành nên bộ khung carbon đa dạng với kích thước lớn và cấu hình không gian đa dạng.
+
+Bộ khung carbon liên kết với các nguyên tử hydrogen tạo khung...
+
+(Hình 4.1. Tỉ lệ các nguyên tố hoá học trong cơ thể người: Oxygen (O) 65%; Carbon (C) 18%; Hydrogen (H) 10%; Nitrogen (N) 3%; Calcium (Ca) 1,5%; Phosphorus (P) 1,1%; K, S, Na, Mg, Cl 0,8%; Các nguyên tố vi lượng 0,6%)
+
+TRANG 25
+
+...hydrocarbon có dạng mạch thẳng hoặc mạch vòng, phân nhánh hoặc không phân nhánh (H 4.2). Từ bộ khung hydrocarbon liên kết với các nhóm chức khác nhau tạo nên các hợp chất hữu cơ chủ yếu của tế bào như carbohydrate, lipid, protein và nucleic acid.
+
+Nguyên tử carbon linh hoạt có thể tạo nên các phân tử có cấu trúc và tính chất hoá học khác nhau từ cùng một số lượng nguyên tử (cùng công thức hoá học).
+
+(Hình 4.2. Các nguyên tử carbon có thể liên kết với nhau theo nhiều cách tạo nên các hợp chất hữu cơ có cấu trúc và chức năng rất khác nhau: Mạch thẳng; Mạch vòng; Mạch nhánh; Mạch vòng kết hợp với mạch nhánh)
+
+DỪNG LẠI VÀ SUY NGẪM
+
+Hoàn thành bảng theo mẫu sau:
+
+Nhóm nguyên tố | Hàm lượng trong cơ thể người | Vai trò | Đại diện
+
+Đa lượng | ? | ? | ?
+
+Vi lượng | ? | ? | ?
+
+Tại sao các phân tử có cùng số lượng nguyên tử carbon nhưng lại có đặc tính hoá học khác nhau?
+
+III. NƯỚC VÀ VAI TRÒ CỦA NƯỚC ĐỐI VỚI SỰ SỐNG
+
+Nước chiếm khoảng 70% khối lượng cơ thể người và có vai trò đặc biệt quan trọng đối với sự sống. Có thể nói, không có nước sẽ không có sự sống. Các nhà thiên văn học tìm kiếm sự sống ngoài hành tinh cũng bắt đầu bằng việc tìm kiếm nước. Điều gì khiến nước có vai trò quan trọng như vậy? Hãy xem cấu trúc của nước quyết định các đặc tính của nó như thế nào.
+
+TRANG 26
+
+1. Cấu trúc và tính chất vật lí, hoá học của nước
+
+Nước tinh khiết chỉ bao gồm các phân tử H₂O, mỗi phân tử nước có một nguyên tử oxygen liên kết với hai nguyên tử hydrogen bằng hai liên kết cộng hoá trị. Nguyên tử oxygen có khả năng hút điện tử cao hơn nhiều so với hydrogen nên các electron trong liên kết lệch về phía oxygen. Do vậy, trong phân tử nước, phía các nguyên tử hydrogen tích điện dương (δ+), còn phía nguyên tử oxygen tích điện âm (δ-). Với cấu trúc như vậy, phân tử nước là phân tử phân cực (giống như thanh nam châm). Khi các phân tử nước tiếp xúc gần với nhau hay với phân tử phân cực khác, lực hút giữa các phần mang điện tích trái dấu của các phân tử hình thành nên các liên kết hydrogen (H 4.3).
+
+(Hình 4.3. Một phân tử nước có thể hình thành tối đa 4 liên kết hydrogen với các phân tử khác (a); khoảng cách giữa các phân tử trong nước đá và nước ở trạng thái lỏng (b))
+
+Cấu trúc hoá học của nước làm cho nước có các đặc tính vật lí rất đặc biệt. Các phân tử nước ở nơi bề mặt tiếp xúc với không khí liên kết chặt với nhau tạo nên sức căng bề mặt. Nhờ vậy, nhiều sinh vật nhỏ có thể đi lại trên mặt nước. Các phân tử nước liên kết với nhau bằng rất nhiều liên kết hydrogen nên phải được cung cấp một nhiệt lượng lớn mới có thể làm tăng nhiệt độ của nước. Vì nước có nhiệt dung đặc trưng cao nên các sinh vật trên cạn có thể dễ dàng điều chỉnh nhiệt độ tế bào và cơ thể cũng như tránh được sự thay đổi đột ngột của nhiệt độ môi trường sống. Nhờ có nhiệt bay hơi cao nên nước bay hơi sẽ lấy một lượng lớn nhiệt độ từ cơ thể sinh vật giúp làm giảm nhiệt độ cơ thể cũng như nhiệt độ của môi trường.
+
+2. Vai trò sinh học của nước đối với tế bào
+
+Nước có vai trò đặc biệt quan trọng đối với tế bào do:
+
+Nước là thành phần chủ yếu cấu tạo nên các tế bào và cơ thể.
+
+Nhờ có tính phân cực nên nước khả năng hoà tan nhiều chất cần thiết cho các hoạt động sống của tế bào.
+
+Nước là nguyên liệu của nhiều phản ứng và là môi trường cho các phản ứng sinh hoá diễn ra trong tế bào.
+
+Nước góp phần định hình cấu trúc không gian đặc trưng của nhiều phân tử hữu cơ trong tế bào, đảm bảo cho chúng thực hiện được các chức năng sinh học, góp phần điều hoà nhiệt độ tế bào và cơ thể.
+
+TRANG 27
+
+DỪNG LẠI VÀ SUY NGẪM
+
+Cấu trúc hoá học của nước quy định các tính chất vật lí nào?
+
+Nước có vai trò như thế nào trong tế bào?
+
+Tại sao hằng ngày chúng ta cần phải uống đủ nước?
+
+KIẾN THỨC CỐT LÕI
+
+Nội dung chính của học thuyết tế bào hiện đại là: (1) Mọi sinh vật đều được cấu tạo từ một hoặc nhiều tế bào. Sự sống được tiếp diễn do có sự chuyển hoá và sự di truyền xảy ra bên trong các tế bào; (2) Tế bào là đơn vị nhỏ nhất, đơn vị cơ bản cấu tạo nên tất cả các sinh vật; (3) Tế bào chỉ được sinh ra từ sự phân chia của các tế bào có trước.
+
+Tế bào được cấu tạo từ các nguyên tố vi lượng và đa lượng. Nguyên tố đa lượng chiếm tỉ lệ lớn, giữ vai trò cấu trúc nên mọi phân tử trong tế bào. Nguyên tố vi lượng chiếm tỉ lệ rất nhỏ nhưng cũng đóng vai trò quan trọng trong việc điều hoà các hoạt động sống của tế bào.
+
+Nước được cấu tạo từ 2 nguyên tử H và 1 nguyên tử O. Do đặc tính phân cực nên nước có các tính chất vật lí, hoá học quan trọng quy định vai trò của nước với tế bào như: là thành phần chính cấu tạo nên tế bào, dung môi hoà tan các chất cần thiết cho tế bào, nguyên liệu và môi trường của các phản ứng chuyển hoá vật chất trong tế bào. Không có nước sẽ không có sự sống.
+
+LUYỆN TẬP VÀ VẬN DỤNG
+
+Nguồn carbon cung cấp cho các tế bào trong cơ thể chúng ta được lấy từ đâu? Giải thích.
+
+Mọi sinh vật đều có thành phần các nguyên tố hoá học trong tế bào về cơ bản giống nhau. Điều này nói lên điều gì về mối quan hệ tiến hoá giữa các sinh vật trên Trái Đất?
+
+Tại sao khi tìm kiếm sự sống trong vũ trụ, các nhà thiên văn học lại tìm kiếm ở những hành tinh có dấu vết của nước?
+
+TRANG 28
+
+BÀI 5: CÁC PHÂN TỬ SINH HỌC
+
+YÊU CẦU CẦN ĐẠT
+
+Nêu được khái niệm phân tử sinh học.
+
+Trình bày được thành phần cấu tạo và vai trò của các phân tử sinh học.
+
+Phân tích được mối quan hệ giữa cấu tạo và chức năng của các phân tử sinh học.
+
+Nêu được một số nguồn thực phẩm cung cấp các phân tử sinh học cho cơ thể.
+
+Vận dụng được kiến thức về các phân tử sinh học để giải thích các hiện tượng và ứng dụng trong thực tiễn (giải thích vai trò của DNA trong việc xác định huyết thống và truy tìm tội phạm....).
+
+Thừa cân, béo phì là nguyên nhân chủ yếu dẫn đến bệnh tiểu đường, tim mạch cùng nhiều bệnh nguy hiểm khác cho con người. Vậy làm thế nào có thể giảm thiểu nguy cơ này để có được cuộc sống khoẻ mạnh?
+
+I. KHÁI NIỆM VÀ THÀNH PHẦN CẤU TẠO CỦA CÁC PHÂN TỬ SINH HỌC TRONG TẾ BÀO
+
+Phân tử sinh học là những phân tử hữu cơ được tổng hợp và tồn tại trong các tế bào sống. Các phân tử sinh học chính bao gồm protein, lipid, carbohydrate, nucleic acid. Trong đó, protein, carbohydrate và nucleic acid là những đại phân tử được cấu tạo theo nguyên tắc đa phân gồm nhiều đơn phân hợp thành. Vì vậy, những loại phân tử sinh học này có kích thước rất lớn và được gọi là các polymer.
+
+Thành phần hoá học chủ yếu của các phân tử sinh học là các nguyên tử carbon và các nguyên tử hydrogen, chúng liên kết với nhau hình thành nên bộ khung hydrocarbon rất đa dạng. Bộ khung hydrocarbon có khả năng liên kết với các nhóm chức khác nhau (như nhóm amino, carboxyl,...) tạo ra vô số các hợp chất với các đặc tính hoá học khác nhau.
+
+DỪNG LẠI VÀ SUY NGẪM
+
+Phân tử sinh học là gì?
+
+Nêu những đặc điểm chung của các phân tử sinh học.
+
+TRANG 29
+
+II. CÁC PHÂN TỬ SINH HỌC
+
+1. Carbohydrate - chất đường bột
+
+Carbohydrate được cấu tạo từ ba loại nguyên tố C, H và O với tỉ lệ 1:2:1 và công thức cấu tạo chung là $C_n(H_2O)_m$. Carbohydrate được chia thành ba nhóm: đường đơn (monosaccharide), đường đôi (disaccharide) và đường đa (polysaccharide). Nguồn thực phẩm cung cấp đường và tinh bột cho con người và động vật đều bắt nguồn từ các bộ phận dự trữ đường và tinh bột của thực vật như củ, quả, hạt, thân cây (ví dụ: củ cải đường, mía,...).
+
+a) Đường đơn
+
+Đường đơn có 6 nguyên tử carbon, gồm ba loại chính là glucose, fructose và galactose (H 5.1). Các loại đường đơn này có hai chức năng chính: (1) dùng làm nguồn cung cấp năng lượng cho các hoạt động sống của tế bào; (2) dùng làm nguyên liệu để cấu tạo nên các loại phân tử sinh học khác.
+
+(Hình 5.1. Đường glucose, galactose và fructose tồn tại trong môi trường nước thường có cấu trúc dạng vòng và tồn tại ở các dạng không gian khác nhau làm cho chúng có các đặc tính vật lí, hoá học khác nhau)
+
+b) Đường đôi
+
+Đường đôi được hình thành do hai phân tử đường đơn liên kết với nhau (sau khi loại đi một phân tử nước) bằng một liên kết cộng hoá trị (được gọi là liên kết glycosidic). Hai phân tử glucose liên kết với nhau tạo nên đường đôi maltose, trong khi một phân tử glucose liên kết với một phân tử galactose thành đường lactose. Đường đôi sucrose được cấu tạo từ một phân tử glucose và một phân tử fructose (H 5.2).
+
+(Hình 5.2. Đường đôi được hình thành khi hai đường đơn liên kết cộng hoá trị với nhau bằng cách loại đi một phân tử nước. a - đường sucrose; b – đường maltose)
+
+TRANG 30
+
+Đường đôi còn được gọi là đường vận chuyển vì các sinh vật vận chuyển nguồn năng lượng là glucose đến các bộ phận khác nhau của cơ thể hoặc nuôi dưỡng con non dưới dạng đường đôi (do đường đôi sẽ không bị phân giải trong quá trình vận chuyển). Ví dụ: Glucose được tổng hợp từ lá cây, sau đó liên kết với nhau thành đường đôi sucrose rồi vận chuyển đến các bộ phận khác nhau của cây. Đường lactose là đường sữa, được sản xuất để cung cấp cho các con non.
+
+c) Đường đa
+
+Đường đa là loại polymer được cấu tạo từ hàng trăm tới hàng nghìn phân tử đường đơn (phần lớn là glucose). Đường đa hay còn gọi là đường phức, bao gồm các loại: tinh bột, glycogen, cellulose, chitin. Đường đa có chức năng chính là dự trữ năng lượng và làm nguyên liệu cấu trúc nên một số thành phần của tế bào.
+
+Tinh bột: Tinh bột là loại carbohydrate được dùng làm năng lượng dự trữ ở các loài thực vật. Tinh bột được cấu tạo từ hàng trăm đến hàng nghìn đơn phân là glucose (H 5.3a). Nhìn chung, các loại tinh bột có cấu trúc ít phân nhánh (Amylose, Amylopectin).
+
+Glycogen: Glycogen được cấu tạo từ nhiều phân tử glucose kết hợp lại nhưng phân tử này phân nhánh rất mạnh (H 5.3b) và tan trong nước tốt hơn so với tinh bột. Glycogen có chức năng dự trữ năng lượng trong cơ thể động vật và một số loài nấm. Ở người và các loài động vật, glycogen được tổng hợp chủ yếu ở gan, cơ và được dùng làm nguồn năng lượng dự trữ ngắn hạn (trong ngày).
+
+Cellulose: Phân tử cellulose được cấu tạo từ các phân tử đường glucose liên kết với nhau tạo thành mạch thẳng, không phân nhánh. Nhiều phân tử cellulose liên kết với nhau tạo thành bó sợi dài nằm song song có cấu trúc vững chắc (H 5.3c). Cellulose là thành phần chính cấu tạo nên thành tế bào của thực vật.
+
+Con người không tiêu hoá được cellulose nhưng cellulose lại giúp ích trong tiêu hoá thức ăn. Cellulose kích thích các tế bào niêm mạc ruột tiết ra dịch nhầy làm cho thức ăn được di chuyển trơn tru trong đường ruột, đồng thời cellulose cũng cuốn trôi những chất cặn bã bám vào thành ruột ra ngoài. Vì thế, nếu trong khẩu phần ăn có quá ít cellulose sẽ rất dễ bị táo bón.
+
+Chitin: Chitin là một loại đường được cấu tạo từ nhiều đơn phân là phân tử glucose hoặc galactose đã được gắn thêm nhóm chức amino thành glucosamine hoặc galactosamine. Chitin là loại đường cấu tạo nên bộ khung xương ngoài của nhiều loài như tôm, cua, nhện và thành tế bào của nhiều loài nấm.
+
+Mặc dù carbohydrate có vai trò quan trọng trong tế bào và cơ thể nhưng nếu chúng ta ăn quá nhiều có thể dẫn đến mắc các bệnh như béo phì, tiểu đường, gan nhiễm mỡ,...
+
+TRANG 31
+
+DỪNG LẠI VÀ SUY NGẪM
+
+Nêu đặc điểm cấu trúc và chức năng chính của các loại carbohydrate.
+
+Con người thường ăn những bộ phận nào của thực vật để lấy tinh bột?
+
+Tại sao nên ăn nhiều loại rau xanh khác nhau trong khi thành phần chính của các loại rau là cellulose – chất mà con người không thể tiêu hoá được?
+
+2. Lipid - Chất béo
+
+Lipid là một nhóm chất rất đa dạng về cấu trúc nhưng có đặc tính chung là kị nước. Các loại mỡ động vật, hormone sinh dục (như testosterone, estrogen), dầu thực vật, phospholipid, một số sắc tố, sáp và một số loại vitamin đều là lipid. Sở dĩ lipid không hoặc rất ít tan trong nước vì chúng chứa một lượng lớn các liên kết C-H không phân cực, tạo nên các sợi dài và chứa ít nguyên tử oxygen. Vì rất đa dạng về cấu trúc nên chức năng của các loại lipid cũng rất khác nhau.
+
+Nguồn chất béo cung cấp cho con người rất đa dạng, có thể từ mô mỡ của các loài động vật, dầu thực vật lấy từ nhiều loại hạt, quả khác nhau như lạc, vừng,... Việc sử dụng đa dạng các nguồn thực phẩm là rất quan trọng với sức khoẻ, khi ăn uống mất cân đối giữa các thành phần chất béo có thể gây ra nhiều bệnh tật.
+
+a) Mỡ và dầu
+
+Loại lipid thường gặp là dầu và mỡ, được cấu tạo gồm một phân tử glycerol liên kết với ba phân tử acid béo (H 5.4).
+
+Các phân tử acid béo trong cùng một phân tử triglyceride có thể khác nhau, vì thế đặc tính hoá học của các loại triglyceride cũng khác nhau. Ở nhiệt độ phòng, dầu tồn tại ở dạng lỏng do chúng chứa các acid béo không no, còn mỡ ở trạng thái rắn do chúng chứa các acid béo no.
+
+Dầu và mỡ là chất dự trữ năng lượng của tế bào và cơ thể. Cơ thể người và động vật dự trữ mỡ trong các tế bào, mỡ phân bố dưới da và nhiều vùng khác trong cơ thể. Lớp mỡ dưới da cũng là lớp cách nhiệt giữ ẩm cho cơ thể người và nhiều loài động vật xứ lạnh. Những động vật sống ở sa mạc như lạc đà sử dụng mỡ ở các bướu làm nguồn cung cấp nước nên chúng có thể đi trong sa mạc nhiều ngày mà không cần uống nước. Trong tế bào,...
+
+(Hình 5.4. Cấu trúc của acid béo và mỡ: (a) Acid béo bão hoà (acid béo no); (b) Acid béo không bão hoà (acid béo không no); (c) Glycerol liên kết với các acid béo bão hoà tạo nên mỡ hay bơ: 1 Glycerol + 3 Acid béo → 1 Phân tử mỡ/bơ + 3 H₂O)
+
+TRANG 32
+
+...các phân tử lipid cũng là thành phần cấu tạo nên các phân tử như lipoprotein đảm nhận nhiều chức năng khác nhau. Ngoài ra, dầu và mỡ còn là dung môi hoà tan nhiều loại vitamin quan trọng với cơ thể như vitamin A, D, E, K,...
+
+Mặc dù có vai trò rất quan trọng với tế bào và cơ thể nhưng ăn quá nhiều dầu, mỡ với các thành phần acid béo không có lợi sẽ làm tăng nguy cơ mắc bệnh béo phì, máu nhiễm mỡ, gây xơ vữa động mạch dẫn đến bệnh tim mạch và các bệnh khác có hại cho sức khoẻ.
+
+Vì vậy, cần có chế độ ăn vừa đủ chất béo, phối hợp cân đối giữa mỡ động vật và dầu thực vật sẽ giúp con người giảm được những nguy cơ trên.
+
+b) Phospholipid
+
+Phospholipid là một loại chất béo phức tạp, được cấu tạo từ một phân tử glycerol liên kết với hai acid béo ở một đầu, đầu còn lại liên kết với nhóm phosphate ($-PO_4^{3-}$). Nhóm phosphate thường liên kết với một nhóm, được gọi là choline, tạo thành phosphatidylcholine (H 5.5a).
+
+(Hình 5.5. Cấu trúc của phospholipid (a): Vùng ưa nước gồm Choline + Phosphate + Glycerol, Đuôi kị nước gồm 2 Chuỗi acid béo; phospholipid cấu trúc nên màng tế bào (b))
+
+Với cấu trúc như vậy, phospholipid được xem là một phân tử lưỡng cực, một đầu có phosphatidylcholine có tính ưa nước và hai đuôi acid béo kị nước. Nhờ có cấu trúc đặc biệt như vậy, phospholipid có vai trò quan trọng trong việc tạo nên cấu trúc màng của các loại tế bào (H 5.5b).
+
+c) Steroid
+
+Steroid là một loại lipid đặc biệt, không chứa phân tử acid béo, các nguyên tử carbon của chúng liên kết với nhau tạo nên 4 vòng (H 5.6).
+
+TRANG 33
+
+(Hình 5.6. Cấu trúc cholesterol (a); testosterone (b) và estrogen (c))
+
+Steroid bao gồm nhiều loại như cholesterol, testosterone, estrogen, vitamin D và cortisone,...
+
+Cholesterol là thành phần quan trọng của màng tế bào, đồng thời cũng là chất tiền thân để tạo nên testosterone và estrogen là những hormone phát triển các đặc điểm khác biệt giữa nam và nữ. Cholesterol không tan trong nước nên để vận chuyển trong máu, chúng phải liên kết với các loại protein nhất định tạo nên các phân tử lipoprotein.
+
+Có hai loại lipoprotein trong máu mà chúng ta quan tâm khi đi khám sức khoẻ là HDL (high-density lipoprotein) và LDL (low-density lipoprotein). HDL là loại lipoprotein mật độ cao, có chức năng vận chuyển cholesterol tới gan, làm giảm lượng cholesterol trong máu nên được gọi là cholesterol "tốt". LDL là loại lipoprotein mật độ thấp, mang cholesterol tới các mạch máu. Khi lượng LDL trong máu cao, chúng sẽ không xâm nhập hết vào các tế bào mà tích tụ lại trong mạch máu tạo ra các mảng bám làm hẹp mạch máu, dẫn đến tăng nguy cơ mắc các bệnh tim mạch và đột quỵ. Do đó, LDL thường được gọi là cholesterol "xấu". Vì vậy, nếu ăn quá nhiều thức ăn chứa cholesterol (đồ chiên rán, nội tạng động vật,...) khiến lượng LDL vượt ngưỡng cho phép sẽ làm gia tăng nguy cơ mắc các bệnh nói trên, gây nguy hiểm tới tính mạng.
+
+d) Carotenoid
+
+Carotenoid là nhóm sắc tố màu vàng cam ở thực vật có bản chất là một loại lipid. Con người và động vật khi ăn carotenoid sẽ chuyển hoá nó thành vitamin A, chất này sau đó được chuyển đổi thành sắc tố võng mạc, rất có lợi cho thị giác.
+
+DỪNG LẠI VÀ SUY NGẪM
+
+Chất béo là gì? Nêu một số chức năng của dầu, mỡ, phospholipid và steroid.
+
+Đặc điểm nào về mặt cấu trúc hoá học khiến phospholipid là một chất lưỡng cực?
+
+Khi ăn cà chua hoặc hành chưng trong mỡ, cơ thể người có thể hấp thụ được những loại vitamin gì? Giải thích.
+
+EM CÓ BIẾT
+
+Tại sao thức ăn nhanh và nước ngọt chế biến sẵn lại có hại cho sức khoẻ?
+
+Những đồ ăn nhanh đóng gói sẵn như bánh ngọt, kẹo, đồ chiên, nướng rất hấp dẫn bởi mùi vị, màu sắc, độ ngọt, vị béo ngậy đặc biệt của chúng. Trong quá trình sản xuất các loại thực phẩm này, người ta thường cho thêm phẩm màu nhân tạo, chất làm tăng hương vị để tăng độ hấp dẫn và thời gian bảo quản.
+
+Giá trị dinh dưỡng của thức ăn nhanh lại rất thấp vì chứa nhiều carbohydrate, chất béo, ít protein, ít vitamin và khoáng chất cần thiết cho cơ thể. Không những thế, nhiều loại thực...
+
+TRANG 34
+
+...phẩm chế biến sẵn còn chứa chất béo trans, một loại chất béo được các nhà sản xuất tạo ra bằng cách hydrogen hoá một phần các acid béo không bão hoà, làm biến đổi tính chất hoá học giống như các acid béo bão hoà để bảo quản thực phẩm được lâu hơn.
+
+Ăn nhiều chất béo trans sẽ dễ dẫn đến xơ vữa động mạch, làm tăng nguy cơ bị các bệnh tim mạch. Đồ uống chế biến sẵn có nhiều đường fructose để tăng độ ngọt. Ăn nhiều fructose cũng như glucose không những làm tăng nguy cơ gan nhiễm mỡ, tiểu đường, béo phì mà quá trình phân giải fructose ở gan còn tạo ra nhiều uric acid rất có hại cho cơ thể.
+
+3. Protein – chất đạm
+
+a) Chức năng của protein
+
+Trong cơ thể, protein có rất nhiều chức năng, có thể nói protein tham gia vào hầu hết tất cả các hoạt động sống của tế bào. Một số chức năng của protein được trình bày dưới đây:
+
+Cấu trúc: Nhiều loại protein tham gia cấu trúc nên các bào quan, bộ khung tế bào.
+
+Xúc tác: Protein cấu tạo nên các enzyme xúc tác cho các phản ứng hoá học trong tế bào.
+
+Bảo vệ: Các kháng thể có bản chất là protein giữ chức năng chống lại các phân tử kháng nguyên từ môi trường ngoài xâm nhập vào cơ thể qua các tác nhân như vi khuẩn, virus,...
+
+Vận động: Protein giúp tế bào thay đổi hình dạng cũng như di chuyển.
+
+Tiếp nhận thông tin: Protein cấu tạo nên thụ thể của tế bào, giúp tiếp nhận thông tin từ bên trong cũng như bên ngoài tế bào.
+
+Điều hoà: Nhiều hormone có bản chất là protein đóng vai trò điều hoà hoạt động của gene trong tế bào, điều hoà các chức năng sinh lí của cơ thể.
+
+Với các chức năng trên, protein có vai trò đặc biệt quan trọng đối với cơ thể người và các loài động vật. Nguồn nguyên liệu để xây dựng các loại protein trong cơ thể người được lấy từ các sản phẩm thịt, sữa của các loài động vật và từ hạt cũng như một số bộ phận khác của nhiều loài thực vật. Sử dụng đa dạng các nguồn thực phẩm giàu protein sẽ cung cấp đủ cho cơ thể nguồn amino acid dùng làm nguyên liệu để tổng hợp protein.
+
+Vậy, cấu trúc của protein có gì đặc biệt khiến chúng có thể đảm nhận nhiều chức năng như vậy?
+
+b) Cấu trúc của protein
+
+Protein được cấu tạo từ các đơn phân là amino acid. Các amino acid đều được cấu tạo từ một nguyên tử carbon trung tâm liên kết với một nhóm amino ($-NH_2$), một nhóm carboxyl (-COOH), một nguyên tử H và một chuỗi bên còn gọi là nhóm R (H 5.7).
+
+Hai amino acid liên kết với nhau bằng liên kết cộng hoá trị, được gọi là liên kết peptide nhờ phản ứng loại đi một phân tử nước.
+
+(Hình 5.7. Cấu trúc chung của amino acid)
+
+TRANG 35
+
+Nhiều amino acid liên kết với nhau tạo nên một chuỗi các amino acid được gọi là chuỗi polypeptide.
+
+Có 20 loại amino acid tham gia cấu tạo nên các protein. Trong số này có 9 loại amino acid không thay thế vì cơ thể người không tự tổng hợp được mà phải lấy từ thức ăn. Từ 20 loại amino acid có thể tạo ra vô số loại chuỗi polypeptide khác nhau về số lượng, thành phần và trình tự sắp xếp các amino acid. Trình tự các amino acid của protein có tính đặc thù và quyết định chức năng của protein.
+
+Chức năng của protein còn phụ thuộc vào các bậc cấu trúc của nó. Protein có 4 bậc cấu trúc (H 5.8):
+
+Cấu trúc bậc 1: Trình tự các amino acid trong một chuỗi polypeptide.
+
+Cấu trúc bậc 2: Chuỗi polypeptide cuộn xoắn lại (xoắn α) hoặc gấp nếp (gấp nếp β).
+
+Cấu trúc bậc 3: Chuỗi polypeptide cuộn xoắn lại hoặc gấp nếp tạo nên cấu trúc không gian ba chiều đặc trưng do có sự tương tác đặc thù giữa các nhóm chức R của các amino acid trong chuỗi polypeptide.
+
+Cấu trúc bậc 4: Hai hay nhiều chuỗi polypeptide liên kết với nhau tạo nên cấu trúc bậc 4.
+
+Cấu trúc không gian của protein (bậc 3 và bậc 4) được duy trì nhờ các liên kết yếu như liên kết hydrogen, tương tác kị nước, tương tác Van der Waals và liên kết cộng hoá trị S-S (disulphide) cũng như liên kết ion (H 5.9).
+
+(Hình 5.8. Các bậc cấu trúc của protein)
+
+(Hình 5.9. Các liên kết hoá học duy trì cấu trúc không gian của protein)
+
+Cấu trúc không gian của protein bị ảnh hưởng bởi các yếu tố môi trường. Khi điều kiện môi trường như pH, nhiệt độ, áp suất, nồng độ ion trong dung dịch thay đổi đến một mức độ...
+
+TRANG 36
+
+...nào đó sẽ làm đứt gãy các liên kết yếu khiến cấu trúc không gian ba chiều của protein bị thay đổi, khi đó, người ta nói protein bị biến tính và mất chức năng sinh học. Dựa vào đặc điểm biến tính của protein, chúng ta có thể điều chỉnh một số yếu tố môi trường để tiêu diệt các loại vi sinh vật làm hỏng thức ăn bằng cách đun chín, ướp muối, nhúng giấm thực phẩm, khử trùng bằng cồn 70°,...
+
+DỪNG LẠI VÀ SUY NGẪM
+
+Các amino acid khác nhau ở những đặc điểm nào?
+
+Protein có những chức năng gì? Đặc điểm cấu trúc nào giúp protein có chức năng rất đa dạng?
+
+Bậc cấu trúc nào đảm bảo protein có được chức năng sinh học? Các liên kết yếu trong phân tử protein có liên quan gì đến chức năng sinh học của nó?
+
+Tại sao chúng ta nên bổ sung protein cho cơ thể từ nhiều loại thức ăn khác nhau mà không nên chỉ ăn một vài loại thức ăn dù những loại đó rất bổ dưỡng?
+
+4. Nucleic acid
+
+Nucleic acid hay còn gọi là acid nhân vì ban đầu được phát hiện chủ yếu ở trong nhân tế bào. Có hai loại acid nhân là DNA và RNA.
+
+a) Deoxyribonucleic acid - DNA
+
+Chức năng: DNA có chức năng mang, bảo quản và truyền đạt thông tin di truyền - những chỉ dẫn cho tế bào sản sinh ra các loại protein và từ protein tạo nên mọi phân tử cần thiết cấu tạo nên tế bào. Nhờ có cấu trúc hoá học đặc biệt mà các phân tử DNA được nhân lên và truyền lại cho các tế bào con gần như nguyên vẹn cả về số lượng lẫn chất lượng. Quá trình truyền đạt thông tin di truyền bên trong tế bào cũng như giữa các thế hệ tế bào được thể hiện qua sơ đồ:
+
+$$\text{DNA} \xrightarrow{\text{Phiên mã}} \text{mRNA} \xrightarrow{\text{Dịch mã}} \text{Protein}$$
+
+$$\text{DNA} \xrightarrow{\text{Nhân đôi}} \text{DNA}$$
+
+So với protein, DNA có ít chức năng hơn nhiều. Nguyên nhân là do cấu trúc của các phân tử DNA.
+
+Cấu trúc: DNA được cấu tạo từ hai chuỗi polynucleotide song song, ngược chiều nhau (H 5.10a). Mỗi chuỗi polynucleotide được cấu tạo từ bốn loại đơn phân là các nucleotide (H 5.10b), liên kết với nhau bằng liên kết phosphodiester. Mỗi nucleotide gồm 3 thành phần: gốc phosphate ($-PO_4^{3-}$), đường deoxyribose (đường 5 carbon) và một nitrogenous base (base). Có bốn loại base là adenine (A), guanine (G), cytosine (C) và thymine (T) (H 5.10c). Các nucleotide chỉ khác nhau ở thành phần base.
+
+Hai chuỗi polynucleotide liên kết ngược chiều nhau (3'- 5' và 5'-3') bằng các liên kết hydrogen theo nguyên tắc bổ sung, A của mạch này luôn liên kết với T của mạch kia bằng 2 liên kết hydrogen, C của mạch này liên kết với G của mạch kia bằng 3 liên kết hydrogen.
+
+TRANG 37
+
+Mô hình cấu trúc xoắn kép của DNA lần đầu tiên được hai nhà khoa học James Watson và Francis Crick công bố vào năm 1953 và đã được giải thưởng Nobel Y học. Một số phân tử DNA của virus có thể có cấu trúc mạch đơn (một chuỗi polynucleotide).
+
+Các phân tử DNA mạch kép ở sinh vật nhân thực hầu hết có cấu trúc dạng không vòng, một số ít có cấu trúc dạng mạch vòng nhỏ. Ở sinh vật nhân sơ, hệ gene mỗi tế bào chỉ gồm một phân tử DNA có cấu trúc mạch vòng, dạng kép có kích thước lớn ở vùng nhân và một số phân tử DNA mạch vòng, dạng kép có kích thước nhỏ ở tế bào chất (gọi là plasmid). Plasmid không có vai trò sống còn đối với tế bào, số lượng của chúng trong tế bào vi khuẩn vì thế cũng rất khác nhau. Nhiều plasmid của vi khuẩn có chứa các gene kháng lại một số loại thuốc kháng sinh.
+
+Do được cấu tạo từ 2 mạch đơn liên kết bổ sung với nhau bằng các liên kết hydrogen nên phân tử DNA có cấu trúc khá bền vững và từ một mạch làm khuôn có thể tổng hợp nên mạch bổ sung giúp tế bào có thể nhân đôi các phân tử DNA một cách chính xác trước mỗi lần phân bào.
+
+(Hình 5.10. Cấu trúc xoắn kép của DNA (a) và một chuỗi polynucleotide (b) cùng các base của DNA (c))
+
+Số lượng các phân tử DNA trong tế bào cũng như trình tự sắp xếp các nucleotide trong mỗi phân tử DNA là đặc trưng cho từng loài và có những trình tự còn đặc trưng cho từng cá thể. Số lượng nucleotide loại A luôn bằng số lượng nucleotide loại T và số lượng nucleotide loại C luôn bằng số lượng nucleotide loại G.
+
+Các trình tự nucleotide trong DNA được sắp xếp thành các đơn vị được gọi là các gene, từ các gene, enzyme của tế bào sẽ tổng hợp (phiên mã) thành các trình tự nucleotide trên các phân tử mRNA để rồi từ đó tổng hợp nên các protein.
+
+DỪNG LẠI VÀ SUY NGẪM
+
+Quan sát hình 5.10, nêu và giải thích các đặc điểm cấu trúc khiến DNA đảm nhận được chức năng mang, bảo quản và truyền đạt thông tin di truyền.
+
+Những thông số nào về DNA là đặc trưng cho mỗi loài?
+
+TRANG 38
+
+KHOA HỌC VÀ ĐỜI SỐNG
+
+Dấu vân tay DNA (DNA fingerprinting)
+
+Trong hệ gene người có các trình tự nucleotide ngắn, được lặp lại nhiều lần. Các trình tự này là đặc trưng cho từng cá thể (trừ trường hợp sinh đôi cùng trứng) giống như dấu vân tay của mỗi người nên được gọi là dấu vân tay DNA. Bằng các biện pháp đặc biệt, người ta có thể tách chiết các trình tự ngắn lặp ở nhiều vị trí khác nhau trong hệ gene của một người rồi nhân bản thành hàng triệu bản sao. DNA sau đó được tách các trình tự có kích thước khác nhau, có thể nhìn thấy được như các băng trên bản điện di. Dấu vân tay DNA rất hữu ích trong việc nhận dạng cá thể, giúp ích trong công tác điều tra tội phạm, xác định nhân thân và quan hệ họ hàng. Bảng điện di dấu vân tay DNA ở hình bên là của bốn người, chúng ta hãy thử tìm xem ai là cha của cô gái (2). Biết mẹ của cô là (1) còn hai người có thể là cha (3 và 4).
+
+(Nguồn: Genetics from gene to genome 4th - Hartwell 2011)
+
+b) Ribonucleic acid - RNA
+
+Cấu trúc: Khác với DNA, các loại RNA được cấu tạo từ một chuỗi polynucleotide. Mỗi nucleotide trong RNA được cấu tạo từ một nitrogenous base liên kết với đường ribose (đường 5 carbon) và gốc phosphate ($-PO_4^{3-}$). Tuy nhiên, base trong RNA gồm adenine, guanine, cytosine và uracil (U) mà không có thymine.
+
+Có nhiều loại phân tử RNA khác nhau và do vậy chúng cũng khác nhau về đặc điểm cấu trúc.
+
+mRNA (RNA thông tin), chỉ gồm một chuỗi polynucleotide dạng mạch thẳng, trong khi tRNA (RNA vận chuyển), mặc dù được cấu trúc từ một mạch nhưng các vùng khác nhau trong một mạch lại tự bắt đôi bổ sung với nhau bằng các liên kết hydrogen theo kiểu $A=U$, $G \equiv C$ tạo nên cấu trúc không gian ba chiều đặc trưng rất phức tạp phù hợp với chức năng của chúng (H 5.11). Trong tế bào còn rất nhiều loại phân tử RNA nhỏ khác nhau, một số thậm chí có cấu trúc mạch kép.
+
+(Hình 5.11. Sơ đồ cấu trúc dạng mạch thẳng của RNA (a) và các dạng cấu trúc của phân tử tRNA (b))
+
+TRANG 39
+
+Chức năng: Mỗi loại RNA thực hiện một chức năng riêng phù hợp với cấu trúc của nó.
+
+RNA thông tin (mRNA) được dùng làm khuôn để tổng hợp protein ở ribosome.
+
+RNA vận chuyển (tRNA) làm nhiệm vụ vận chuyển amino acid đến ribosome và tiến hành dịch mã.
+
+RNA ribosome (rRNA) tham gia cấu tạo nên ribosome, nơi tiến hành tổng hợp protein.
+
+Các loại RNA nhỏ khác tham gia vào quá trình điều hoà hoạt động của gene.
+
+Một số loại RNA còn có chức năng xúc tác cho các phản ứng hoá học như các enzyme và vì vậy chúng được gọi là các ribozyme.
+
+Nguồn cung cấp các loại nguyên liệu để tổng hợp các nucleic acid cho cơ thể người là từ tất cả các loại thực phẩm. Tuy vậy, có những loại thực phẩm chứa nhiều nucleic acid hơn các loại khác. Ví dụ: Các mô như gan động vật chứa rất nhiều DNA nên chúng ta có thể làm thí nghiệm tách chiết DNA từ gan của gà hoặc lợn khá dễ dàng. Khi bị rối loạn chuyển hoá uric acid, nếu ăn nhiều thực phẩm giàu nucleic acid như tôm, cua, nội tạng động vật và nhiều loại thịt đỏ khác, nhân purin trong nucleic acid sẽ dễ bị chuyển hoá thành uric acid tích luỹ lại trong các khớp xương gây nên bệnh goute.
+
+DỪNG LẠI VÀ SUY NGẪM
+
+Quan sát hình trong mục II.4b, phân biệt các loại RNA về cấu trúc và chức năng.
+
+Trình bày sự khác biệt về mặt cấu trúc giữa DNA và RNA.
+
+KIẾN THỨC CỐT LÕI
+
+Các phân tử sinh học chính bao gồm carbohydrate, lipid, protein và các nucleic acid.
+
+Carbohydrate được cấu tạo từ các nguyên tử C, H và O theo tỉ lệ 1: 2: 1 và công thức tổng quát là $C_n(H_2O)_m$ bao gồm các loại đường đơn, đường đôi và đường đa với chức năng chính là dự trữ năng lượng và cấu trúc nên các phân tử sinh học khác nhau.
+
+Lipid là những phân tử kị nước có cấu trúc và chức năng rất đa dạng. Các loại lipid chủ yếu là triglyceride, phospholipid, steroid, carotenoid và một số loại vitamin như A, E, D, K. Chức năng chủ yếu của lipid là dự trữ năng lượng dài hạn và cấu trúc nên màng tế bào và nhiều bộ phận khác của tế bào.
+
+Protein được cấu tạo theo nguyên tắc đa phân gồm nhiều đơn phân là amino acid. Tính đa dạng và đặc thù của protein được quy định bởi số lượng, thành phần, trình tự sắp xếp các amino acid và các bậc cấu trúc của nó. Cấu hình không gian ba chiều của protein quy định chức năng của chúng. Protein có rất nhiều chức năng như cấu trúc, vận chuyển, xúc tác, miễn dịch, truyền tin,...
+
+TRANG 40
+
+DNA được cấu tạo bởi hai chuỗi polynucleotide liên kết với nhau bằng các liên kết hydrogen ($A=T$, $G \equiv C$). Mỗi nucleotide được cấu tạo từ ba thành phần: base (gồm 4 loại A, T, G, C), đường deoxyribose và gốc phosphate. Chức năng của DNA là mang, bảo quản và truyền đạt thông tin di truyền.
+
+RNA có cấu trúc chủ yếu từ một chuỗi polynucleotide. Mỗi nucleotide được cấu tạo từ base, đường ribose và nhóm phosphate. Có bốn loại base là A, U, G và C. Chức năng của RNA rất đa dạng: làm khuôn để tổng hợp protein, vận chuyển amino acid, cấu tạo nên ribosome, điều hoà hoạt động gene, xúc tác cho một số loại phản ứng hoá học.
+
+LUYỆN TẬP VÀ VẬN DỤNG
+
+Phân tử glucose có công thức cấu tạo là $C_6H_{12}O_6$. Nếu 10 phân tử glucose liên kết với nhau tạo nên một phân tử đường đa thì phân tử này sẽ có công thức cấu tạo như thế nào? Giải thích.
+
+Tại sao cùng có chung công thức cấu tạo là $C_6H_{12}O_6$ nhưng glucose và fructose lại có vị ngọt khác nhau?
+
+Tại sao cùng được cấu tạo từ các phân tử đường glucose nhưng tinh bột và cellulose lại có đặc tính vật lí và chức năng sinh học khác nhau?
+
+Trong số các phân tử sinh học, protein là loại có nhiều chức năng nhất. Tại sao?
+
+Để giảm béo, nhiều người đã cắt bỏ hoàn toàn chất béo trong khẩu phần ăn. Theo em, điều này là nên hay không nên? Dưới góc độ sinh học, chúng ta cần làm gì để duy trì cân nặng với một cơ thể khoẻ mạnh?
+
+Tại sao khi luộc trứng thì protein của trứng lại bị đông đặc lại?
+
+Giải thích vì sao khi khẩu phần ăn thiếu protein thì cơ thể, đặc biệt là trẻ em, thường gầy yếu, chậm lớn, hay bị phù nề và dễ mắc bệnh truyền nhiễm?
+
+TRANG 41
+
+BÀI 6: THỰC HÀNH: NHẬN BIẾT MỘT SỐ PHÂN TỬ SINH HỌC
+
+I. YÊU CẦU CẦN ĐẠT
+
+Sau khi học xong phần thực hành, học sinh cần đạt được các yêu cầu sau:
+
+Tiến hành được thí nghiệm nhận biết các thành phần hoá học có trong tế bào như đường đơn, tinh bột, protein và lipid.
+
+Áp dụng được nguyên lí của các phản ứng hoá học đặc thù để nhận biết được từng loại phân tử sinh học.
+
+Có được các kĩ năng thao tác trong phòng thí nghiệm như pha hoá chất, sử dụng các dụng cụ và đặc biệt là các kĩ thuật an toàn phòng thí nghiệm, tránh bị bỏng, hoả hoạn, bị hoá chất bắn vào cơ thể và quần áo.
+
+II. CHUẨN BỊ
+
+1. Dụng cụ, thiết bị
+
+Ống nghiệm các loại, bình thuỷ tinh chịu nhiệt, pipet, ống nhỏ giọt, đèn cồn, kẹp ống nghiệm.
+
+2. Nguyên liệu, hoá chất
+
+Thuốc thử Benedict ($C_7H_{10}CuNa_2O_{15}S$), nước cất, cồn ethanol tuyệt đối, dung dịch sodium hydroxide loãng (NaOH 10%), hydrochloric acid (HCl), copper (II) sulphate ($CuSO_4 \cdot 5H_2O$), dung dịch albumin 1%.
+
+Đường glucose, lòng trắng trứng, dầu ăn.
+
+III. CÁCH TIẾN HÀNH THÍ NGHIỆM
+
+1. Nhận biết đường glucose
+
+a) Nguyên lí
+
+Glucose được nhận biết bằng phép thử Benedict. Trong phép thử này, dung dịch copper sulphate trong môi trường kiềm có màu xanh đặc trưng, khi phản ứng với glucose (đun nóng) tạo nên chất kết tủa màu đỏ gạch.
+
+$$\text{Glucose} + Cu^{2+} \text{ (màu xanh)} \xrightarrow{t^\circ} \text{Đường bị oxy hoá} + Cu^+ \text{ (màu đỏ gạch)}$$
+
+b) Quy trình thí nghiệm
+
+Bước 1: Hoà tan khoảng 20 g glucose vào trong nước được dung dịch glucose loãng.
+
+Bước 2: Trộn dung dịch glucose với dung dịch Benedict (thể tích bằng nhau) trong ống nghiệm rồi đun nóng bằng một trong hai cách sau:
+
+(1) Đun cách thuỷ: Đặt ống nghiệm trong bình thuỷ tinh chứa nước, đun trên bếp điện hoặc trên ngọn lửa đèn cồn.
+
+(2) Sử dụng kẹp ống nghiệm để hơ ống nghiệm trên ngọn lửa đèn cồn nhưng không để dung dịch bị đun sôi, bằng cách liên tục đưa ống nghiệm vào ngọn lửa rồi lại đưa ra ngay để làm cho dung dịch đủ nóng.
+
+Lưu ý: Thực hiện đúng và cẩn thận từng thao tác theo hướng dẫn, tránh để xảy ra hoả hoạn hoặc bị bỏng khi sử dụng đèn cồn.
+
+Bước 3: Quan sát sự thay đổi màu trong ống nghiệm: Màu của dung dịch trong ống nghiệm sẽ chuyển dần từ xanh lục sang vàng và cam rồi xuất hiện chất kết tủa dưới đáy ống nghiệm có màu đỏ gạch của copper (I) oxide ($Cu_2O$).
